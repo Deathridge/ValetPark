@@ -1,0 +1,13 @@
+c S 3
+c E 3
+# E 5
+# W 2
+# E 1
+# E 4
+g N 4
+a W 2
+b S 1
+e W 4
+b S 4
+# N 1
+# E 5
